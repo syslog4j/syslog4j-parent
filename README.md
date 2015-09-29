@@ -5,3 +5,9 @@ syslog4j-parent
 
 Parent configuration for [syslog4j.org] (http://syslog4j.org) projects.
 
+Build and install the parent module (which is just Maven configuration) using:
+
+```
+mvn install
+```
+
